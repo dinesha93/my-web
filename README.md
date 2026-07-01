@@ -1,2 +1,2 @@
-# my-web
-sales mangement
+index.html
+style.css
